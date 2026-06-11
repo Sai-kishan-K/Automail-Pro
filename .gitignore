@@ -1,3 +1,4 @@
 .env
 database/email_automation.db
 venv/
+__pycache__/
