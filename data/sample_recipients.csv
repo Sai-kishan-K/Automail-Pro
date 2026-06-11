@@ -1,0 +1,6 @@
+first_name,last_name,company_name,email
+John,Doe,ABC Corp,test1@example.com
+Emma,Brown,DataSoft,test2@example.com
+Lucas,Martin,Cloudify,test3@example.com
+Invalid,User,FakeCorp,invalid-email
+Missing,Email,NoMail,
